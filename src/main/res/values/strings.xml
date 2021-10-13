@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="title">Лабораторная работа 1</string>
+    <string name="sec">Список</string>
+    <string name="res">Результат</string>
+    <string name="calc_btn">Вычислить</string>
+
+</resources>
